@@ -27,6 +27,7 @@ Sensors (publish):
 - greenhouse/sensors/light (%)
 - greenhouse/sensors/waterLevel (cm; higher = fuller)
 - greenhouse/status (Running | Low Water)
+  
 Actuators (subscribe when manual mode):
 - greenhouse/control/fan (true/false)
 - greenhouse/control/pump (true/false)
